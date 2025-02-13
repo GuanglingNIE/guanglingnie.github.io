@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](http://academicpages.github.io/files/CV.pdf)
+
 Education
 ======
 * Master student of development studies, Department of Social Policy and  Development Studies , College of Humanities and Development Studies, CAU, 09/2021-07/2022
