@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](http://academicpages.github.io/files/CV.pdf)
+[PDF](http://guanglingnie.github.io/files/CV.pdf)
 
 Education
 ======
